@@ -1,0 +1,175 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.wrapper{
+	margin:0px;
+	padding: 0px;
+	background: #16FFB5;
+}
+.header{
+	padding-top: 30px;
+	background-color:#49C7D6;
+}
+.header .logo{
+	display: inline-block;
+	padding-left: 150px;
+}
+.header .main-menu{
+	vertical-align: middle;
+	margin-left: 400px;
+	display: inline-block;
+}
+.header .main-menu li{
+	list-style:none;
+	float: left;
+	background: #DE6A6A;
+	padding-left: 10px;
+	padding: 5px 15px;
+}
+.header .main-menu li:hover{
+	background: #936E6E;
+}
+.header .main-menu li a{
+	list-style:none;
+	text-decoration: none;
+	color:white;
+}
+.form-auth{
+	padding-left: 500px;
+	padding-top: 30px;
+	text-align: center;
+}
+.form-auth input{
+	padding: 7px;
+	border: 1px solid black;
+	color:orange;
+	font-size: 15pt;
+}
+
+.form-registration {
+	padding-left: 600px;
+	padding-top: 30px;
+	text-align: center;
+}
+.form-registration input{
+	padding: 7px;
+	border: 1px solid black;
+	color:orange;
+	font-size: 15pt;
+}
+.left-sidebar {
+	display: inline-block;
+	width: 250px;
+	position: relative;
+	background: #B5E3FF;
+}
+.side-menu{
+	margin:15px;
+	border: 2px solid grey;
+	border-radius: 8px;
+}
+.side-menu li{
+	padding: 0px;
+	margin:0px;
+	list-style: none;
+}
+.side-menu a{
+	color: black;
+	text-decoration: none;
+}
+.context-main{
+	display: inline-block;
+	vertical-align: top;	
+}
+.error-code{
+	padding-left: 450px;
+}
+.error-code p {
+	font-size: 19pt;
+	padding: 8px;
+	margin-top: 80px;
+	border:1px solid grey;
+}
+.hello{
+	padding-left: 100px;
+	color: white;
+	display: inline-block;
+	vertical-align: top;
+}
+footer {
+	height: 120px;
+	background: #BFF08E;
+}
+.about-user{
+	border: 1px solid grey;
+	padding: 10px;
+	font-size: 25pt;
+	margin-left:500px;
+	margin-top:50px;
+}
+.list-user{
+	padding: 10px;
+	font-size: 13pt;
+	margin-left:400px;
+	margin-top:10px;
+}
+.list-user p{
+	display: inline-block;
+	border: 1px solid red;
+	border-right: 1px solid black;
+}
+.list-phone{
+	margin-left: 50px;
+	display: inline-block;
+	width: 1400px
+}
+.section input{
+	margin-right: 15px;
+	border-radius: 5px;
+	padding: 8px;
+	font-size: 17pt;
+	border: 2px solid grey;
+}
+.my-phone{
+	width: 180px;
+	background: #2C8A87;
+	padding: 10px;
+	margin-top: 10px;
+	margin-right: 80px;
+	display: inline-block;
+}
+.my-phone p {
+	border-bottom: 1px solid black;
+}
+.phone-delete{
+	margin-left: 550px;
+}
+.phone-add{
+	margin-left: 200px;
+}
+.list-message{
+	background: #AC9898;
+	width: 1450px;
+}
+.my-message{
+	border-bottom:1px solid black;
+}
+.my-message p{
+	padding: 0px;
+	margin:0px;
+	display: inline-block;
+}
+.my-message .time{
+	float: right;
+}
+.my-message input{
+	padding: 0px;
+	margin: 0px;
+	background: #AC9898;
+	border: 0px;
+}
+#status1{
+	font-weight: 600;
+}
+pet6042@yandex.ru
